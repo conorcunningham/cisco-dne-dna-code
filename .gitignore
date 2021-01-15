@@ -4,6 +4,8 @@
 # User Environment
 env_user.py
 
+# pycharm
+.idea
 
 # Virtual Environments
 .venv
